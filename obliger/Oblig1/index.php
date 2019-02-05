@@ -12,16 +12,10 @@
      ?> 
   	 <nav class="meny">
   	 	<?php
-  	 	switch (variable) {
-  	 		case 'value':
-  	 			# code...
-  	 			break;
-  	 		
-  	 		default:
-  	 			# code...
-  	 			break;
-  	 	}
-  	 		echo "<a href='#'>" . $titel .   
+        echo "<ul>
+                <li><a href='(vis elementet som er valgt)'>" . $istitel ."</a></li>
+              </ul>
+             ";
   	 		//fylle menyen med antall filmer/filer
   	 	  ?>
   	 </nav>

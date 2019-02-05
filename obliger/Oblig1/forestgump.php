@@ -1,7 +1,7 @@
 <?php
-$bilde = "img/interstellar.jpg";
-$titel = "interstellar";
-$info = "Filmen utspiller seg i SPACE!";
-$skuespiller = "Matthew McConaughey";
-$imdb = "https://www.imdb.com/title/tt0816692/?ref_=nv_sr_1";
+$fgbilde = "img/interstellar.jpg";
+$fgtitel = "interstellar";
+$fginfo = "Filmen utspiller seg i SPACE!";
+$fgskuespiller = "Matthew McConaughey";
+$fgimdb = "https://www.imdb.com/title/tt0816692/?ref_=nv_sr_1";
 ?>
