@@ -11,6 +11,8 @@
       if ($database->connect_error) {
         die($database->connect_errno. ": ".$database->connect_error);
       }
-     ?>
+
+      
+    ?>
   </body>
 </html>
