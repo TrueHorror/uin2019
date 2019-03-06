@@ -1,0 +1,71 @@
+#image_wrapper {
+	width: 25%;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+	
+}
+
+#dice_wrapper {
+	float: right;
+	width: auto;
+
+}
+
+#terning {
+	width: 100%;
+}
+
+#bilde {
+	width: 100%;
+	border: 2px solid black;
+}
+
+.meny {
+	text-align: center;
+	margin-top: 11px;
+	
+}
+
+#wrapper{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#filmBtn{
+	background-color: #252663;
+	color: white;
+	border: 1px solid #666;
+	border-radius: 0px 10px 0px 10px;
+	padding: 10px 10px 10px 10px;
+
+}
+
+#filmBtn:hover{
+	background-color: #444666
+}
+
+
+/*https://resource-centre.net/css3-tutorials/turning-links-into-buttons/ idé for utseende av linker*/
+a {
+	background-color: #252663;
+	color: white;
+	border: 1px solid #666;
+	border-radius: 0px 10px 0px 10px;
+	padding: 10px 10px 10px 10px;
+
+	
+}
+
+a:hover{
+	background-color: #444666
+}
+
+h1, h3, a{
+	font-family: 'Bree Serif', serif;
+}
+p{
+	padding-bottom: 10px;
+	font-family: 'Maven Pro', sans-serif;
+}
